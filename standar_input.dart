@@ -2,7 +2,7 @@ import 'dart:io';
 
 main(List<String> args) {
   // membaca inputan string
-  print("Masukan Input");
+  print("Masukan Input Angka");
   String input = stdin.readLineSync();
 
   // Jika inputan string hasilnya null
